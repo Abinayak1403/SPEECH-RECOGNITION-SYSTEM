@@ -87,7 +87,7 @@ This is a test for the CodTech AI internship speech recognition task.
 
 ## 📁 Files Included
 
-- `speech_to_text.py` – Python script for Task 2
+- `speech_to_text.ipynb` – Python script for Task 2
 - `speech_demo.wav` – Sample audio input
 - `README.md` – This documentation file
 
