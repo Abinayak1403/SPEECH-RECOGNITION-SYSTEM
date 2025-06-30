@@ -82,7 +82,7 @@ This is a test for the CodTech AI internship speech recognition task.
 
 ## 📸 Output Screenshot
 
-
+![Image](https://github.com/user-attachments/assets/74f0a74e-2041-4e47-8723-b932cd76601b)
 ---
 
 ## 📁 Files Included
